@@ -18,9 +18,9 @@ Core Utilities & Tools
 ### 🌍 Global Support (Multilingual Guides)
 * 🇰🇷 **[일본 만화 번역기](https://ai-manga-translator.com/ko/tools/manga-translate)** — 한국어 서비스 및 만화 번역 가이드.
 * 🇫🇷 **[Traducteur de Manga AI](https://ai-manga-translator.com/fr)** — Le meilleur outil d'OCR et de traduction de manga en français.
-* 🇯🇵 **[マンガ 翻訳 AI](https://ai-manga-translator.com/ja/blog/manga-ocr-guide)** — 日本語のマンガOCRおよび翻訳リソース.
 * 🇨🇳 **[AI 漫画翻译器](https://ai-manga-translator.com/zh)** — 最佳 AI 漫画翻译工具推荐 2026.
-* *JA* **[マンガ 翻訳 AI](https://ai-manga-translator.com/ja)** — 日本語でマンガを翻訳するための最高のツール。
+* *JA* [マンガ 翻訳 AI](https://ai-manga-translator.com/ja) — 日本語でマンガを翻訳するための最高のツール。
+* *🇯🇵*[マンガ 翻訳 AI](https://ai-manga-translator.com/ja/blog/manga-ocr-guide) — 日本語のマンガOCRおよび翻訳リソース.
 *   **DE** **[KI Manga Übersetzer](https://ai-manga-translator.com/de)** — Die beste KI-Manga-Übersetzung für deutsche Fans.
 *   **AR** **[مترجم مانجا ذكاء اصطناعي](https://ai-manga-translator.com/ar)** — أفضل أداة لترجمة المانجا باللغة العربية.
 *   **ES** **[Traductor de Manga IA](https://ai-manga-translator.com/es)** — La mejor herramienta para traducir manga al español con IA.
